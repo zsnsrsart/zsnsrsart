@@ -36,6 +36,6 @@ Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje s
 *   [🍳 zsnsrskuvar / zsnsrs](https://github.com/zsnsrscoder/zsnsrs)
     *Interaktivna digitalna umetnost, gde se spajaju čist HTML, CSS, JavaScript i SVG kod.*
 
-*   [🎨 zsnsrcoder / zsnsrscoder](https://github.com/zsnsrsart/zsnsrs)
+*   [🎨 zsnsrcoder / zsnsrscoder](https://github.com/zsnsrscoder/zsnsrscoder)
     *Izložba interaktivne digitalne umetnosti, gde je svaki detalj ručno napisan direktno od nule.*
   
