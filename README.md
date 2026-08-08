@@ -33,7 +33,7 @@ Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje s
 
 ### 📂 Moje Programersko Carstvo (Ostali Projekti)
 
-*   [🍳 zsnsrskuvar / zsnsrs](https://github.com/zsnsrskuvar/zsnsrskuvar)
+*   [🍳 zsnsrskuvar / zsnsrskuvar](https://github.com/zsnsrskuvar/zsnsrskuvar)
     *Interaktivna digitalna umetnost, gde se spajaju čist HTML, CSS, JavaScript i SVG kod.*
 
 *   [🎨 zsnsrcoder / zsnsrscoder](https://github.com/zsnsrscoder/zsnsrscoder)
