@@ -13,7 +13,7 @@ Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje s
 
 ### 🧰 Moje Tehnologije i Alati
 
-*   **Web jezici:** HTML5 | CSS3 | JavaScript
+*   **Web jezici:** HTML5 | CSS3 | JavaScript 
 *   **Grafika:** SVG (Ručno kodirane ikone i grafika) & GIMP
 *   **Sistemsko programiranje:** C jezik
 *   **Hostovanje sajtova:** GitHub Pages (Ubacivanje iz tekst editora)
@@ -27,7 +27,7 @@ Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje s
 *   ***Čist kod:*** Pisanje optimizovanog koda direktno od nule.
 
 ---
-markdown###
+
 ---
  ⚠️ Važna napomena / Important Notice
 ---
@@ -35,7 +35,7 @@ Molimo vas da pre korišćenja koda pogledate pravila pod stavkom **License**.
 ---
 *Please check the terms under the **License** section before using the code.*
 ---
-markdownℹ️ **Napomena:** Detaljne uslove korišćenja, zabrane i autorska prava pogledajte ispod, pod stavkom **Autorska prava / License**.
+markdownℹ️ **Napomena:** Detaljne uslove korišćenja, zabrane i autorska prava pogledajte, pod stavkom **Autorska prava / License**.
 ---
 
 
