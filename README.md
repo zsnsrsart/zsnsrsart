@@ -27,7 +27,6 @@ Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje s
 *   ***Čist kod:*** Pisanje optimizovanog koda direktno od nule.
 
 ---
-
 ---
  ⚠️ Važna napomena / Important Notice
 ---
@@ -35,9 +34,7 @@ Molimo vas da pre korišćenja koda pogledate pravila pod stavkom **License**.
 ---
 *Please check the terms under the **License** section before using the code.*
 ---
-markdownℹ️ **Napomena:** Detaljne uslove korišćenja, zabrane i autorska prava pogledajte, pod stavkom **Autorska prava / License**.
 ---
-
 
 *"Kod po kod – moje carstvo!"* 🚀
 ---
@@ -47,6 +44,6 @@ markdownℹ️ **Napomena:** Detaljne uslove korišćenja, zabrane i autorska pr
 *   [🍳 zsnsrskuvar / zsnsrskuvar](https://github.com/zsnsrskuvar/zsnsrskuvar)
     *Interaktivna digitalna umetnost, gde se spajaju čist HTML, CSS, JavaScript i SVG kod.*
 
-*   [🎨 zsnsrcoder / zsnsrscoder](https://github.com/zsnsrscoder/zsnsrscoder)
+*   [💻 zsnsrcoder / zsnsrscoder](https://github.com/zsnsrscoder/zsnsrscoder)
     *Izložba interaktivne digitalne umetnosti, gde je svaki detalj ručno napisan direktno od nule.*
   
