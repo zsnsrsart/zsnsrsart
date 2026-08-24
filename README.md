@@ -52,7 +52,7 @@ Molimo vas da pre korišćenja koda pogledate pravila pod stavkom **License**.
 
 ***Ovaj projekat je uspešno postavljen na GitHub Pages!***
 
-Kliknite na link desno da biste otvorili zsnsrsart u veb pregledaču:
+Kliknite na link ispod da biste otvorili zsnsrsart u veb pregledaču:
 👉 <a href="https://zsnsrsart.github.io/zsnsrsart" target="_blank">**OTVORI zsnsrsart UŽIVO**</a>
 ---
 ---
@@ -61,7 +61,7 @@ Kliknite na link desno da biste otvorili zsnsrsart u veb pregledaču:
 
 ***Ovaj projekat je uspešno postavljen na GitHub Pages!***
 
-Kliknite na link desno da biste otvorili zsnsrsart u veb pregledaču:
+Kliknite na link ispod da biste otvorili zsnsrsart u veb pregledaču:
 👉 <a href="https://zsnsrskuvar.github.io/zsnsrskuvar" target="_blank">**OTVORI zsnsrskuvar UŽIVO**</a>
 ---  
 ---
