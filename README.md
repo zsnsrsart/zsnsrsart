@@ -55,4 +55,12 @@ Molimo vas da pre korišćenja koda pogledate pravila pod stavkom **License**.
 Kliknite na link desno da biste otvorili zsnsrsart u veb pregledaču:
 👉 <a href="https://zsnsrsart.github.io/zsnsrsart" target="_blank">**OTVORI zsnsrsart UŽIVO**</a>
 ---
-  
+---
+
+### 🌐 zsnsrskuvar Sajt Uživo
+
+***Ovaj projekat je uspešno postavljen na GitHub Pages!***
+
+Kliknite na link desno da biste otvorili zsnsrsart u veb pregledaču:
+👉 <a href="https://zsnsrskuvar.github.io/zsnsrskuvar" target="_blank">**OTVORI zsnsrskuvar UŽIVO**</a>
+---  
