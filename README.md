@@ -46,4 +46,13 @@ Molimo vas da pre korišćenja koda pogledate pravila pod stavkom **License**.
 
 *   [💻 zsnsrcoder / zsnsrscoder](https://github.com/zsnsrscoder/zsnsrscoder)
     *Izložba interaktivne digitalne umetnosti, gde je svaki detalj ručno napisan direktno od nule.*
+*  ---
+
+### 🌐 zsnsrsart Sajt Uživo
+
+***Ovaj projekat je uspešno postavljen na GitHub Pages!***
+
+Kliknite na link desno da biste otvorili zsnsrsart u veb pregledaču:
+👉 <a href="https://zsnsrsart.github.io/zsnsrsart" target="_blank">**OTVORI zsnsrsart UŽIVO**</a>
+---
   
