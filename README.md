@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 20px;">
-  <img src="zsnsrsPro.WebP" alt="zsnsrscoder logo" width="200" style="border: none;" />
+  <img src="GL.webp" alt="zsnsrscoder logo" width="200" style="border: none;" />
   <p style="font-size: 1.2em; font-style: italic; margin-top: 10px; color: #888;">"Gde se estetika koda susreće sa ručnim radom."</p>
 </div>
 
